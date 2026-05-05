@@ -32,9 +32,17 @@ OctoAcme defines clear, cross-functional ownership:
 |------|-----------------------|
 | **Project Manager (PM)** | Coordinates delivery, schedules, risks, dependencies, and stakeholder communication. |
 | **Product Manager (PdM)** | Defines the problem, owns outcomes and prioritization, maintains the roadmap and backlog, and validates impact. |
+| **Engineering Manager** | Manages team health, capacity, and professional development; removes organizational blockers. |
+| **Tech Lead** | Sets technical direction, leads architecture decisions, and mentors developers. |
 | **Developers** | Implement features and fixes, participate in design and code reviews, contribute to estimation, and surface technical risks. |
-| **QA/Testing** | Validate quality and acceptance criteria. |
+| **QA Lead** | Owns the test strategy, coordinates testing activities, and signs off on release quality. |
+| **UX Designer** | Translates user research into designs and ensures features meet usability and accessibility standards. |
+| **DevOps Engineer** | Builds and maintains CI/CD pipelines, manages environments, and supports reliable deployments. |
+| **Business Analyst** | Gathers and documents requirements, translates business needs into actionable stories and acceptance criteria. |
+| **Customer Success Manager** | Represents customer outcomes post-launch, relays feedback, and coordinates adoption and escalation support. |
 | **Stakeholders** | Provide inputs and approvals. |
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for detailed responsibilities, goals, and communication patterns, and [Cross-Functional Roles Reference](octoacme-cross-functional-roles-reference.md) for the RACI matrix, handoff points, and escalation paths.
 
 ### Communication Strategies
 
@@ -67,6 +75,7 @@ Quality is embedded throughout delivery and release:
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Pre-release checklist, deployment steps, and post-deployment verification. |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective formats, action item tracking, and feeding learnings back into future sprints. |
 | [Roles and Personas](octoacme-roles-and-personas.md) | Detailed responsibilities, goals, and communication patterns for each role. |
+| [Cross-Functional Roles Reference](octoacme-cross-functional-roles-reference.md) | RACI matrix, key handoff points, escalation paths, and onboarding checklist for cross-functional teams. |
 
 ---
 
